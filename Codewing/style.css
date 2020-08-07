@@ -1,0 +1,98 @@
+/*
+Theme Name: Codewing Project
+Theme URI: ...com
+Author: Sudarshan Adhikari
+Author URI: http://adhikarisudarshan.com.np/
+Description: Just a demo project 
+Version: 1.0
+Text Domain: Codewing
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.category ul{
+    margin-left: 0 !important;
+
+}
+
+
+#s{
+    height: 50px;
+    padding: 5px 15px;
+    font-size: 0.888em;
+    border-radius: 0;
+    border: none;
+    background: #f8f8f8;
+    color: #000;
+    position: relative !important;
+}
+
+#searchsubmit {
+    position: absolute !important;
+    right: 30px;
+    border: none;
+    border-radius: 0;
+    background: #3f46ad;
+    color: #fff;
+    font-size: 0.778em;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 11px 20px;
+    -webkit-transition: all ease 0.35s;
+    -moz-transition: all ease 0.35s;
+    transition: all ease 0.35s;
+}
+
+#newsletter{
+    margin-top: 20px;
+}
+
+.es_subscription_form .es_txt_email{
+    height: 50px !important;
+    background-color: #fff;
+}
+
+.es_subscription_form .es_subscription_form_submit{
+    width: 200px;
+    height: 50px;
+    cursor:grabbing;
+
+}
+
+.es_subscription_form .es-field-wrap{
+    font-size: 12px;
+    
+}
+
+.footer_newsletter{
+    width: 60%;
+    margin: auto;
+}
+
+.newsletter-section{
+    background-color: #3f46ad;
+    padding-bottom: 20px;
+    
+}
+.footer_newsletter .es_subscription_form{
+    display: flex;
+    flex-direction: column !important;
+    text-align: center;
+    justify-content: center;
+}
+
+.footer_newsletter .es_subscription_form .es_caption{
+    font-size: 17px;
+    color: #fff !important;
+    margin: 10px 0px 0px 0 !important;
+    
+}
+
+.footer_newsletter .es_subscription_form .es_subscription_form_submit{
+    height: 50px;
+    cursor:grabbing;
+    width: 150px;
+    background: #000;
+
+}
+
